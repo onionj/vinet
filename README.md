@@ -1,6 +1,7 @@
 # vinet v0.18.6
 ## gui trojan for windows
 ### This is a graphical trojan created with [pybotnet](https://github.com/onionj/pybotnet) and tkinter 
+> This project uses an older version of pybotnet
 
 > Disclaimer: Please note that this is a research project. I am by no means responsible for any usage of this tool. Use it on your behalf.
 
